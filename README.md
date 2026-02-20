@@ -8,6 +8,6 @@
 # L'image que j'ai choisi pour mon avatar est la photo de mon lapin
 
 <a href="https://github.com/diyaa04">
-   <img src="https://avatars.githubusercontent.com/u/1670887?v=4?s=100" width="100px;" alt=""/>
+   <img src="https://avatars.githubusercontent.com/u/109861788?s=400&u=15266971afaa78dcb722570e1f95cfeb9d011ea5&v=4" width="100px;" alt=""/>
    <br /><sub><b>Diyaa Rahmani</b></sub>
 </a>
