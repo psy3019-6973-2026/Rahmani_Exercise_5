@@ -18,14 +18,21 @@ Ce projet correspond directement à mes intérêts de recherche, qui portent sur
 - Tâche 1: Reproductibilité complète du notebook
    * Exécution complète du notebook original à partir d'un notebook vierge
    * Identification et documentation des erreurs ou incompatibilités
-   * Vérification de la cohérence des résultats obtenus
-   * Création et automatisation d'un environnement virtuel
+   * Vérification de la cohérence des résultats obtenus avec ceux rapportés par l'étudiant
+   * Création et automatisation d'un environnement virtuel (requirements.txt)
 
 - Tâche 2: Extension multi-sujets
-   * L’analyse initiale portait uniquement sur le participant sub-005. Je vais étendre et adapter le notebook pour analyser les cinq participants (sub-001 à sub-005)
+  L’analyse initiale portait uniquement sur le participant sub-005.
+
+  Je vais adapter le notebook afin d’appliquer le pipeline d’analyse aux cinq participants (sub-001 à sub-005).
+
+  Cette tâche comprend :
    * Vérifier si les fichier event files sont complètes et que l'analyse peut être fait sur tous les sujets
+   * Identification des incohérences éventuelles entre sujets
      
-- Tâche 3: Intégration des données prétraité voxel-wise
-  Les chercheurs ont laissé des données prétraités sous la forme .npy. Je vais:
+- Tâche 3: Intégration des données prétraité voxel-wise (.npy)
+  En plus des données brutes, des matrices voxel-wise prétraitées sont disponibles au format .npy. Je vais:
   * Adapter le notebook de l'étudiant pour analyser les données pré traités de tous les participants
-  * Vérifier les résultats obtenus du notebook (matrices) avec ce qui a été publié
+  * Comparer les matrices générées avec celles obtenues via le pipeline basé sur les données brutes
+  * Vérifier la cohérence des résultats avec ceux rapportés dans les travaux publiés
+  * Documenter les différences potentielles liées au preprocessing
