@@ -24,7 +24,7 @@ Ce projet correspond directement à mes intérêts de recherche, qui portent sur
 - Tâche 2: Extension multi-sujets
   L’analyse initiale portait uniquement sur le participant sub-005.
 
-  Je vais adapter le notebook afin d’appliquer le pipeline d’analyse aux cinq participants (sub-001 à sub-005).
+  Je vais adapter le notebook afin d’appliquer l'analyse aux cinq participants (sub-001 à sub-005).
 
   Cette tâche comprend :
    * Vérifier si les fichier event files sont complètes et que l'analyse peut être fait sur tous les sujets
